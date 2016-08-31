@@ -47,6 +47,8 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [Nagios](https://www.nagios.org/) The Industry Standard In IT Infrastructure Monitoring
 
+* [Spiceworks Network Monitoring](http://www.spiceworks.com/free-network-monitoring-management-software/) Powerful, easy-to-use network monitoring software. Real-time status and alerts for your critical devices and services.
+
 
 ###Business Intelligence
 * [SpagoBI](https://www.spagobi.org/) is an Open Source Business Intelligence suite, belonging to the free/open source SpagoWorld initiative, founded and supported by Engineering Group.
