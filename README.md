@@ -15,7 +15,6 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [Virtual Box](https://www.virtualbox.org/) An x86 virtualization software package developed by Oracle. Distributed under either the GNU GPL or a proprietary license with additional features.
 
-
 ### OS/Server
 * [Ubuntu](http://www.ubuntu.com/) is an open source software platform that runs everywhere from the smartphone, the tablet and the PC to the server and the cloud.
 
@@ -24,6 +23,13 @@ List of alternative Enterprise level Free(Open source) Software
 
 
 * [Cent OS](https://www.centos.org/) Community ENTerprise Operating System. A free rebuild of source packages from the Red Hat Enterprise Linux.
+
+
+###Backup and Recovery
+* [Bacula](http://blog.bacula.org/) is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
+
+* [Amanda](http://www.amanda.org/) the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media.
+
 
 ###Database
 * [MySQL](https://www.mysql.com/)  is an open-source relational database management system (RDBMS).
