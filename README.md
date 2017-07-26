@@ -1,6 +1,6 @@
 # Exitprice
 
-List of alternative Enterprise level Free(Open source) Software
+List of alternative Enterprise level Free(and some Open source) Software
 
 ### Hypervisors
 
@@ -25,13 +25,13 @@ List of alternative Enterprise level Free(Open source) Software
 * [Cent OS](https://www.centos.org/) Community ENTerprise Operating System. A free rebuild of source packages from the Red Hat Enterprise Linux.
 
 
-###Backup and Recovery
+### Backup and Recovery
 * [Bacula](http://blog.bacula.org/) is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
 
 * [Amanda](http://www.amanda.org/) the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media.
 
 
-###Database
+### Database
 * [MySQL](https://www.mysql.com/)  is an open-source relational database management system (RDBMS).
 
 
@@ -44,10 +44,10 @@ List of alternative Enterprise level Free(Open source) Software
 * [PostgreSQL](https://www.postgresql.org/) The official site for PostgreSQL, the world's most advanced open source database
 
 
-###Firewall
+### Firewall
 * [pfSense](https://www.pfsense.org/) is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
 
-###Monitoring
+### Monitoring
 * [Prefix](http://stackify.com/prefix) for .net and java apps. Prefix collects all the data you need to understand what your code is doing before it goes to production. Built on Stackify's powerful, proven technology, but it's so lightweight it will never slow you down.
 
 
@@ -55,14 +55,16 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [Spiceworks Network Monitoring](http://www.spiceworks.com/free-network-monitoring-management-software/) Powerful, easy-to-use network monitoring software. Real-time status and alerts for your critical devices and services.
 
+* [PRTG Network Monitor](https://www.paessler.com/prtg) is network-monitoring software that can run on a Windows machine within your network and it can collect statistics from designated hosts such as routers, servers, switches and other important devices or applications. Free trial available. You can use 1000 sensors after trial period forever.
 
-###Business Intelligence
+
+### Business Intelligence
 * [SpagoBI](https://www.spagobi.org/) is an Open Source Business Intelligence suite, belonging to the free/open source SpagoWorld initiative, founded and supported by Engineering Group.
 
 
 * [Pentaho](http://www.pentaho.com/) Big data integration and analytics solutions from Pentaho turn information into insights. Gain a competitive advantage with Pentaho's platform.
 
-###Reports
+### Reports
 * [Spago Reports](https://www.spagobi.org/)
 
 
@@ -71,7 +73,7 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [Pentaho](http://www.pentaho.com/)
 
-###Penetration Testing Tools
+### Penetration Testing Tools
 * [Vega](https://subgraph.com/vega/documentation/Vega-Scanner/index.en.html) scans websites recursively, building an internal representation of the site in a tree-like data structure comprised of entities known as "path state nodes".
 
 
@@ -81,13 +83,13 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [Kali Linux](https://www.kali.org/) linux OS dedicated for penetration testing
 
-###Web Servers
+### Web Servers
 * [Apache Server](https://httpd.apache.org/)  is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows.
 
 
 * [Nginx](https://www.nginx.com/resources/wiki/) NGINX is one of a handful of servers written to address the C10K problem.
 
-###Office Applications
+### Office Applications
 * [Libre Office](https://www.libreoffice.org/download/libreoffice-fresh/)  is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity
 
 
@@ -96,10 +98,10 @@ List of alternative Enterprise level Free(Open source) Software
 
 * [WPS](http://wps.com/) Your dream solution for the no-budget, no-commitment productivity office suite.
 
-###Image Manipulation
+### Image Manipulation
 * [GIMP](https://www.gimp.org/) The GNU Image Manipulation Program, for X Windows systems. Official site, including download area, documentation, FAQs, and a plugin registry.
 
 
-###Vector Creator/Editor
+### Vector Creator/Editor
 * [InkScape](https://inkscape.org/en/) Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 
